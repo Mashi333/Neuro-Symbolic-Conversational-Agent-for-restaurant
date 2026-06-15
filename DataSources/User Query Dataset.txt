@@ -1,0 +1,59 @@
+USR001: Can you recommend a vegetarian meal under Rs.1500?
+
+USR002: I have a peanut allergy. What dishes are safe for me?
+
+USR003: Are there any gluten-free options available today?
+
+USR004: Can I reserve a table for six people tomorrow evening?
+
+USR005: What desserts do you recommend for children?
+
+USR006: Do you offer any student discounts?
+
+USR007: Which meals are suitable for vegans?
+
+USR008: Can I bring my own birthday cake?
+
+USR009: What seafood dishes are available?
+
+USR010: Are there any low-calorie meal options?
+
+USR011: Which dishes contain dairy products?
+
+USR012: Can I order food for home delivery?
+
+USR013: What are today's promotional offers?
+
+USR014: I need a meal under Rs.2000 with high protein.
+
+USR015: Do you have any nut-free desserts?
+
+USR016: Can you suggest meals for a diabetic customer?
+
+USR017: What are the most popular dishes on the menu?
+
+USR018: Is parking available at the restaurant?
+
+USR019: Can I modify ingredients in a menu item?
+
+USR020: Which dishes are suitable for children?
+
+USR021: Are there discounts for large groups?
+
+USR022: Can I book a private event space?
+
+USR023: What meals contain shellfish?
+
+USR024: Which dishes are spicy?
+
+USR025: Can you recommend a healthy lunch option?
+
+USR026: What payment methods do you accept?
+
+USR027: Are pets allowed in the restaurant?
+
+USR028: Which meals contain eggs?
+
+USR029: What vegan options are available under Rs.1200?
+
+USR030: Can you explain your cancellation policy?

@@ -1,0 +1,50 @@
+RES001: Spice Garden specializes in authentic Sri Lankan cuisine with traditional flavors.
+RES002: Ocean Breeze offers fresh seafood dishes in a relaxing coastal atmosphere.
+RES003: Green Bowl focuses on healthy vegetarian and vegan meals.
+RES004: Urban Grill is known for premium grilled meats and gourmet burgers.
+RES005: Family Feast provides affordable meals designed for family dining.
+RES006: Seafood Harbor serves fresh fish and shellfish sourced daily.
+RES007: Sunset Café offers casual dining with specialty coffee and desserts.
+RES008: Royal Curry House features traditional South Asian curries and rice dishes.
+RES009: Healthy Harvest specializes in nutritious low-calorie meals.
+RES010: Mountain View Restaurant offers scenic dining with local cuisine.
+RES011: Golden Spoon combines international flavors with modern presentation.
+RES012: City Bistro serves quick and convenient meals for busy professionals.
+RES013: Green Leaf Café focuses on organic and plant-based ingredients.
+RES014: Ocean Delight specializes in grilled seafood and tropical beverages.
+RES015: Village Kitchen offers authentic homemade-style Sri Lankan meals.
+RES016: Urban Vegan serves exclusively vegan dishes and beverages.
+RES017: Fresh Catch Restaurant focuses on sustainable seafood sourcing.
+RES018: Spice Route combines Asian and fusion cuisine experiences.
+RES019: Heritage Dining showcases traditional regional recipes.
+RES020: Gourmet Corner offers premium dining experiences with chef specials.
+RES021: Family Table provides child-friendly dining with extensive menu choices.
+RES022: Healthy Plate specializes in balanced meals for health-conscious customers.
+RES023: Royal Feast offers banquet facilities and event dining services.
+RES024: Sunset Terrace features outdoor dining and panoramic views.
+RES025: Green Earth Café emphasizes environmentally sustainable dining.
+RES026: Ocean Pearl serves luxury seafood dishes with premium ingredients.
+RES027: City Lights Restaurant provides modern urban dining experiences.
+RES028: The Vegan Spot focuses on innovative plant-based cuisine.
+RES029: Garden Fresh Restaurant uses locally sourced vegetables and produce.
+RES030: Coastal Flavors highlights regional seafood specialties.
+RES031: Harvest Kitchen offers farm-to-table dining experiences.
+RES032: Gourmet Express combines quality food with fast service.
+RES033: Traditional Taste specializes in heritage Sri Lankan recipes.
+RES034: Fusion Hub blends Eastern and Western culinary styles.
+RES035: Family Delight offers budget-friendly meals for all ages.
+RES036: Healthy Choice Café focuses on nutritious meal preparation.
+RES037: Spice Kingdom is famous for its aromatic curry selections.
+RES038: Ocean View Grill offers seafood and steak specialties.
+RES039: Green Harvest promotes sustainable and healthy dining.
+RES040: Village Feast provides authentic local dining experiences.
+RES041: Urban Taste offers contemporary cuisine with international influences.
+RES042: Seafood Paradise specializes in premium shellfish and fish dishes.
+RES043: Nature's Plate emphasizes fresh and natural ingredients.
+RES044: Royal Garden Restaurant combines luxury dining with traditional flavors.
+RES045: Coastal Breeze provides casual seafood dining near the waterfront.
+RES046: Healthy Living Café serves nutritious breakfasts and lunches.
+RES047: Spice Village offers regional curry dishes and traditional beverages.
+RES048: Gourmet Harbor focuses on chef-crafted seafood specialties.
+RES049: Family Kitchen delivers comfort food in a welcoming environment.
+RES050: Green Paradise serves innovative vegetarian and vegan creations.

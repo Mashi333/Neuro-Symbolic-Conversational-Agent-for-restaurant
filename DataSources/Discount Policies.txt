@@ -1,0 +1,59 @@
+DIS001: Students receive a 10% discount on weekdays with a valid student ID.
+
+DIS002: Children under 12 receive a 15% discount on all meals.
+
+DIS003: Senior citizens receive a 12% discount every Monday.
+
+DIS004: Birthday customers receive a complimentary dessert.
+
+DIS005: Groups of 15 or more receive a 10% discount on total bills.
+
+DIS006: Lunch orders between 12 PM and 2 PM qualify for a 5% discount.
+
+DIS007: Members of the loyalty program earn reward points on every purchase.
+
+DIS008: Reward points can be redeemed after accumulating 500 points.
+
+DIS009: First-time customers receive a 10% discount on online orders.
+
+DIS010: Delivery orders above Rs.5000 qualify for free delivery.
+
+DIS011: Family meal packages receive a 12% discount during weekends.
+
+DIS012: Corporate customers receive negotiated discount rates.
+
+DIS013: Customers ordering three or more main courses receive a free beverage.
+
+DIS014: Seasonal promotions may offer up to 20% discounts.
+
+DIS015: Loyalty members receive double points during promotional periods.
+
+DIS016: Customers dining during happy hour receive a 10% discount.
+
+DIS017: Wedding event bookings receive special package discounts.
+
+DIS018: Customers using the mobile app receive exclusive discounts.
+
+DIS019: Festival promotions offer discounted family combo meals.
+
+DIS020: Military personnel receive a 10% discount with valid identification.
+
+DIS021: Teachers receive a 10% discount every Friday.
+
+DIS022: Bulk takeaway orders above Rs.10000 receive a 5% discount.
+
+DIS023: New menu items may be offered at introductory prices.
+
+DIS024: Customers completing feedback surveys receive discount vouchers.
+
+DIS025: Loyalty members receive birthday discount coupons.
+
+DIS026: Corporate lunch packages include discounted pricing.
+
+DIS027: Weekend brunch specials include discounted beverage bundles.
+
+DIS028: Customers referring friends receive reward points.
+
+DIS029: Discount vouchers cannot be exchanged for cash.
+
+DIS030: Only one promotional discount may be applied per transaction.

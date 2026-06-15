@@ -1,0 +1,59 @@
+ALG001: Peanut-containing dishes are prepared in a shared kitchen environment.
+
+ALG002: Customers with severe allergies should notify staff before ordering.
+
+ALG003: Shellfish ingredients are used in selected seafood dishes.
+
+ALG004: Milk products are present in various desserts and sauces.
+
+ALG005: Gluten-containing ingredients are used in bread and pasta dishes.
+
+ALG006: Soy ingredients are included in several Asian-inspired menu items.
+
+ALG007: Tree nuts may be present in desserts and specialty dishes.
+
+ALG008: Egg products are used in baked goods and dressings.
+
+ALG009: Fish ingredients may be present in sauces and seasonings.
+
+ALG010: Cross-contamination cannot be completely eliminated.
+
+ALG011: Ingredient suppliers may change without prior notice.
+
+ALG012: Customers should review allergen information before ordering.
+
+ALG013: Staff can provide allergen details upon request.
+
+ALG014: Vegan dishes may be prepared near non-vegan foods.
+
+ALG015: Gluten-free meals are prepared separately whenever possible.
+
+ALG016: Sesame ingredients are used in selected menu items.
+
+ALG017: Mustard-based sauces may contain allergens.
+
+ALG018: Celery ingredients are used in soup preparations.
+
+ALG019: Sulphite-containing ingredients may be used in beverages.
+
+ALG020: Lupin flour may be present in specialty baked products.
+
+ALG021: Mollusks are included in certain seafood dishes.
+
+ALG022: Crustacean ingredients are used in shrimp and crab dishes.
+
+ALG023: Allergen labels are updated regularly.
+
+ALG024: Customers with multiple allergies should consult staff directly.
+
+ALG025: Shared cooking equipment may expose food to allergens.
+
+ALG026: Special allergy requests require additional preparation time.
+
+ALG027: Ingredient substitutions may affect allergen content.
+
+ALG028: Allergen information is available on the restaurant website.
+
+ALG029: Staff receive periodic allergen-awareness training.
+
+ALG030: Emergency allergy incidents should be reported immediately.

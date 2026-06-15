@@ -1,0 +1,59 @@
+POL001: Reservations must be cancelled at least 24 hours before the booking time.
+
+POL002: Outside food and beverages are not permitted inside the restaurant.
+
+POL003: Pets are not allowed in indoor dining areas.
+
+POL004: Customers must arrive within 15 minutes of their reservation time.
+
+POL005: Tables are held for a maximum of 15 minutes after the reserved time.
+
+POL006: Smoking is prohibited inside the restaurant premises.
+
+POL007: Payment must be completed before leaving the restaurant.
+
+POL008: Group reservations for more than 10 guests require advance confirmation.
+
+POL009: Decorations for private events require prior approval.
+
+POL010: Customers are responsible for any intentional property damage.
+
+POL011: Children under 12 must be accompanied by an adult.
+
+POL012: Management reserves the right to refuse service for inappropriate behavior.
+
+POL013: Buffet items cannot be taken outside the restaurant.
+
+POL014: Customers must inform staff of food allergies before placing orders.
+
+POL015: Reserved event spaces require a non-refundable deposit.
+
+POL016: Refunds are only issued for verified billing errors.
+
+POL017: Promotional offers cannot be combined unless stated otherwise.
+
+POL018: Takeaway orders must be collected within 30 minutes of preparation.
+
+POL019: Delivery orders are available only within designated service areas.
+
+POL020: Customers must present valid identification for age-restricted items.
+
+POL021: Restaurant closing time is strictly enforced.
+
+POL022: Large parties may be subject to an automatic service charge.
+
+POL023: Lost items are kept for 30 days before disposal.
+
+POL024: Customers may request receipts for all transactions.
+
+POL025: Parking is available at the customer's own risk.
+
+POL026: Management may modify operating hours during holidays.
+
+POL027: Special dietary requests are subject to ingredient availability.
+
+POL028: Private event bookings must be confirmed at least seven days in advance.
+
+POL029: Menu prices may change without prior notice.
+
+POL030: Emergency evacuations must follow staff instructions immediately.

@@ -1,0 +1,50 @@
+FAQ001: What are your operating hours?
+FAQ002: Do you accept online reservations?
+FAQ003: Can I reserve a table for a large group?
+FAQ004: Do you offer home delivery services?
+FAQ005: What areas do you deliver to?
+FAQ006: Is there a minimum order value for delivery?
+FAQ007: Do you provide takeaway services?
+FAQ008: Are vegan options available on the menu?
+FAQ009: Do you serve vegetarian meals?
+FAQ010: Are gluten-free meals available?
+FAQ011: Can ingredients be customized upon request?
+FAQ012: Do you have low-calorie meal options?
+FAQ013: Are nutritional details available for menu items?
+FAQ014: Which dishes are suitable for children?
+FAQ015: Do you have a kids' menu?
+FAQ016: Are pets allowed in the restaurant?
+FAQ017: Is parking available for customers?
+FAQ018: Do you provide free Wi-Fi?
+FAQ019: What payment methods do you accept?
+FAQ020: Do you accept credit and debit cards?
+FAQ021: Can I pay using mobile payment apps?
+FAQ022: Do you offer student discounts?
+FAQ023: Are there discounts for senior citizens?
+FAQ024: Do you have loyalty programs?
+FAQ025: How can I earn reward points?
+FAQ026: Can reward points be redeemed for meals?
+FAQ027: Do you host birthday parties?
+FAQ028: Can I bring my own birthday cake?
+FAQ029: Do you provide event catering services?
+FAQ030: Can I book a private dining area?
+FAQ031: What is your reservation cancellation policy?
+FAQ032: How early should I reserve a table?
+FAQ033: Do you serve alcohol?
+FAQ034: Are non-alcoholic beverages available?
+FAQ035: What are your most popular dishes?
+FAQ036: Do you offer seafood dishes?
+FAQ037: Are halal meal options available?
+FAQ038: How do you handle food allergies?
+FAQ039: Can staff provide allergen information?
+FAQ040: Are peanut-free meals available?
+FAQ041: Do you prepare gluten-free meals separately?
+FAQ042: Is outside food allowed?
+FAQ043: Do you offer family meal packages?
+FAQ044: Can I request special meal preparations?
+FAQ045: Do you have seasonal menu items?
+FAQ046: Are menu prices subject to change?
+FAQ047: What should I do if I leave an item behind?
+FAQ048: Can I order meals in advance?
+FAQ049: Do you provide receipts for all transactions?
+FAQ050: How can I submit customer feedback?
