@@ -1,3 +1,10 @@
 __pycache__/
 *.pyc
 .env
+.venv/
+asp_validation.py
+_debug_retrieval.py
+*.log
+streamlit_*.txt
+evaluation/*.json
+vectordb/*/

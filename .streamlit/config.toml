@@ -1,0 +1,9 @@
+# Silent, stable console for the demo.
+#
+# server.fileWatcherType = "none" disables Streamlit's source/module watcher.
+# The watcher probes every imported package (including transformers, pulled in
+# by sentence-transformers) and logs long tracebacks for optional image models
+# whose torchvision dependency we do not install - pure noise. Trade-off:
+# edits to .py files no longer auto-reload the app; restart it manually.
+[server]
+fileWatcherType = "none"
